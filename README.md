@@ -17,9 +17,11 @@
 
 [``nrarfcn``](https://github.com/blevic/nrarfcn): a 5G NR-ARFCN calculator, as a Python package.
 
-This is a Python package that calculates the frequency for a given NR-ARFCN, the NR-ARFCN for a given frequency, and related NR band information, according to 3GPP **Rel-17**.
+This is a Python package that calculates the frequency for a given NR-ARFCN, the NR-ARFCN for a given frequency, and related NR band information, according to 3GPP **Rel-18**.
 
 It follows [3GPP TS 38.104](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3202) v17.6.0: "_5G; NR; Base Station (BS) radio transmission and reception_".
+
+([3GPP TS 38.101](https://www.etsi.org/deliver/etsi_ts/138100_138199/13810101/18.06.00_60/ts_13810101v180600p.pdf))
 
 ### Documentation
 
