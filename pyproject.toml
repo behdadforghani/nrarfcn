@@ -4,9 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nrarfcn"
-version = "2.4.0"
+version = "2.4.1"
 authors = [
   { name="Breno Levi", email="blevic@proton.me" },
+  { name="Behdad Forghani", email="behdad.forghani@gmail.com" },
 ]
 description = "A 5G NR-ARFCN calculator"
 readme = "README.md"
@@ -20,5 +21,5 @@ classifiers = [
 keywords = ["nrarfcn", "arfcn", "rf", "radio", "frequency", "channel", "5g", "3gpp"]
 
 [project.urls]
-"Homepage" = "https://github.com/blevic/nrarfcn"
+"Homepage" = "https://github.com/behdadforghani/nrarfcn"
 "Bug Tracker" = "https://github.com/blevic/nrarfcn/issues"
